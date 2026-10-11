@@ -22,8 +22,8 @@ A Python CLI tool that downloads YouTube playlists as MP3 files and automaticall
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dz0n1V/yt-dlp-playlist-downloader.git
-   cd yt-dlp-playlist-downloader
+   git clone https://github.com/Dz0n1V/Practical-usage-of-yt-dlp-tool-in-Python.git
+   cd Practical-usage-of-yt-dlp-tool-in-Python
    ```
 
 2. Install yt-dlp:
